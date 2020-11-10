@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CardGame",
+"productVersion": "0.1",
+"dataUrl": "CardGameWebGL1110.data.unityweb",
+"wasmCodeUrl": "CardGameWebGL1110.wasm.code.unityweb",
+"wasmFrameworkUrl": "CardGameWebGL1110.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
